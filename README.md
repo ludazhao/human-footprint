@@ -2,6 +2,8 @@
 
 CS231A Project
 
+Team Members: Luda Zhao, Stephanie Wang, Mary Cirino
+
 Kaggle Link: https://www.kaggle.com/c/planet-understanding-the-amazon-from-space
 
 More description of the dataset from Planet Labs: https://github.com/planetlabs/planet-amazon-deforestation
