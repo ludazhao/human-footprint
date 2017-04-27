@@ -1,0 +1,15 @@
+# anything in data
+data
+
+.env
+*.tmp
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+#ipython
+.ipynb_checkpoints
+
